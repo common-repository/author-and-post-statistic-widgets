@@ -1,0 +1,42 @@
+/* ===== COMMON CSS ===== */
+.apsw-widget{padding-bottom:10px;}
+.apsw-widget .apsw-tab-title,.apsw-widget .apsw-block .apsw-block-title{text-align:center;font-size:14px;}
+.apsw-widget .apsw-tab-title{border-bottom:1px solid #aeaeae;padding:5px 0 15px 0;}
+.apsw-widget .apsw-block ul{padding:5px;margin:0;}
+.apsw-widget .apsw-block ul, .apsw-widget .apsw-block ul li{list-style:none;}
+.apsw-widget .apsw-block ul li{border-bottom:1px dotted #ccc;margin:0;padding:5px 0;display:flex;justify-content:space-between;}
+.apsw-widget .apsw-block ul li a{text-decoration:none;display:flex;}
+.apsw-widget .apsw-block ul li .apsw-wrap,
+.apsw-widget .apsw-block ul li .apsw-item-label,
+.apsw-widget .apsw-block ul li .apsw-info-value{display:inline-block;}
+.apsw-widget .apsw-block ul li .apsw-url,
+.apsw-widget .apsw-block ul li .apsw-author-info{max-width:80%;}
+.apsw-widget .apsw-block ul li .apsw-profile-url,
+.apsw-widget .apsw-block ul li .apsw-post-url{padding:0 5px;box-shadow: none;text-decoration:none;}
+.apsw-widget .apsw-block ul li .apsw-profile-url span,
+.apsw-widget .apsw-block ul li .apsw-post-url span{margin-left:10px;}
+.apsw-widget ul.resp-tabs-list li{padding:13px 15px;border:none;}
+
+/* ===== POST VIEWS CSS ===== */
+.apsw-post-views-wrapper{margin:25px 5px;max-width:250px;}
+.apsw-post-views-wrapper .apsw-post-views-alltime,
+.apsw-post-views-wrapper .apsw-post-views-today{border-bottom:1px solid #ccc;clear:both;font-size:13px;padding:5px 3px 3px;}
+.apsw-post-views-wrapper .apsw-post-views-title,.apsw-post-views-wrapper .apsw-post-views-title div{display:inline-block;}
+.apsw-post-views-wrapper .apsw-post-views-title div{margin-left:3px;}
+.apsw-post-views-wrapper .apsw-post-views-value{float:right;clear:both;}
+.apsw-post-views-wrapper .apsw-img-alltime-views, .apsw-post-views-wrapper .apsw-img-views-today{ display:inline-block; }
+
+/* ===== POPULAR POSTS/ POPULAR USERS CSS ===== */
+.apsw-widget .apsw-block ul li .apsw-info{display:inline;clear:both;white-space:nowrap;}
+.apsw-widget .apsw-block ul li .apsw-profile-url,
+.apsw-widget .apsw-block ul li .apsw-info .apsw-info-img{margin-left:3px;}
+
+/* ===== AUTHOR AND POST CSS ===== */
+.apsw-widget .apsw-block ul li .apsw-author-info{margin:5px 0;}
+.apsw-widget .apsw-block ul.apsw-sub-list,
+.apsw-widget .apsw-block ul.apsw-sub-list li{padding:0 0 0 10px;}
+.apsw-widget .apsw-block ul.apsw-category-list li,
+.apsw-widget .apsw-block ul.apsw-tag-list li,
+.apsw-widget .apsw-block ul.apsw-taxonomy-list li{float:left;border:none;}
+
+/* ===== CUSTOM CSS ===== */

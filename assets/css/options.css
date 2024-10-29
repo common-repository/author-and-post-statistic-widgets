@@ -1,0 +1,12 @@
+/* ===== OPTIONS PAGE ===== */
+#apswOptionsTabs .form-table tr th{width:35%;}
+#apswOptionsTabs .form-table tr th, #apswOptionsTabs .form-table tr td{padding:7px;vertical-align:middle;}
+#apswOptionsTabs .form-table .apsw-post-type, #apswOptionsTabs .form-table .apsw-taxonomy-type{display:block;padding:3px 0;}
+/*.apsw-widget-tabs tr:nth-child(2n+1){background: #f7f7f7;}*/
+#apswOptionsTabs .form-table .apsw-option-desc{font-size:11px;}
+
+
+/* ===== WIDGETS PAGE ===== */
+.apsw-widget-label{font-size:14px;margin:3px 0;}
+.widget-custom-wrapper,.title-custom-wrapper,.body-custom-wrapper{margin:5px 0;}
+.apsw-widget-option-wrapper{margin:25px 0;}

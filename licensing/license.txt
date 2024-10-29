@@ -1,0 +1,18 @@
+﻿Copyright: © 2014 [gVectors.com by gConverter, LLC.](http://www.gvectors.com/)
+
+Released under the terms of the [GNU General Public License](http://www.gnu.org/licenses/gpl-2.0.html).
+
+= Credits / Additional Acknowledgments =
+
+* Software designed for WordPress®.
+	- GPL License <http://codex.wordpress.org/GPL>
+	- WordPress® <http://wordpress.org>
+* JavaScript extensions require jQuery.
+	- GPL License <http://jquery.org/license>
+	- jQuery <http://jquery.com/>
+* jQuery Theme Switcher plugin.
+	- Dual licensed under the MIT <http://www.opensource.org/licenses/mit-license.php> and GPL <http://www.gnu.org/licenses/gpl.html> licenses.
+	- Copyright (c) 2011 Dave Hoff <http://www.davehoff.com>
+* jqPlot - Pure JavaScript plotting plugin for jQuery.
+	- Dual licensed under the MIT <http://www.opensource.org/licenses/mit-license.php> and GPL <http://www.gnu.org/licenses/gpl.html> licenses.
+	- Copyright (c) 2009-2013 Chris Leonello <http://www.jqplot.com/>
